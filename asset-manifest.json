@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailnode-todo-list/static/css/main.0bd13d82.css",
+    "main.js": "/tailnode-todo-list/static/js/main.ad7af13c.js",
+    "index.html": "/tailnode-todo-list/index.html",
+    "main.0bd13d82.css.map": "/tailnode-todo-list/static/css/main.0bd13d82.css.map",
+    "main.ad7af13c.js.map": "/tailnode-todo-list/static/js/main.ad7af13c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd13d82.css",
+    "static/js/main.ad7af13c.js"
+  ]
+}
